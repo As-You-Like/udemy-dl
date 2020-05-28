@@ -1,0 +1,14 @@
+https://github.com/As-You-Like/udemy-dl
+
+https://github.com/r0oth3x49/udemy-dl/issues/389
+
+
+python udemy-dl.py COURSE_URL
+
+python udemy-dl.py https://www.udemy.com/course/react-the-complete-guide-incl-redux -k cookies.txt --info 
+
+python udemy-dl.py https://www.udemy.com/course/react-the-complete-guide-incl-redux -k cookies.txt -q 720 -o "F:\Downloaders\udemy-dl\output" -s en
+ 
+
+https://www.udemy.com/course/microservices-with-node-js-and-react
+https://www.udemy.com/course/react-the-complete-guide-incl-redux
