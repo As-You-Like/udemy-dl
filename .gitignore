@@ -2,7 +2,7 @@ output/
 cookies.txt
 new_cook.txt
 new_cookies.txt
-.udemy-dl.conf
+.udemy-dl*.conf
 pack.sublime-project
 pack.sublime-workspace
 # Byte-compiled / optimized / DLL files
